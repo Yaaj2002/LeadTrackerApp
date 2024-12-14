@@ -1,0 +1,9 @@
+{
+  "database": {
+    "rules": ".env"
+  },
+  "rules": {
+    ".read": true,
+    ".write": true
+  }
+}
